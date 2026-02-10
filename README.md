@@ -1,7 +1,7 @@
 # Sentiment Analysis Application
 ## VADER-Based Sentiment Analyzer with Web Interface
 
-**Author:** [Your Name]  
+**Author:** Trinidad, Jassim Eman M.  
 **Course:** Artificial Intelligence Laboratory  
 **Date:** February 10, 2026  
 **Project:** Sentiment Analysis App (VADER + User Inputs + Prompt Engineering)
